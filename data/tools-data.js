@@ -2867,6 +2867,24 @@ const aiTools = [
         "url": "https://typedream.com"
     },
     {
+        "id": "landscapioai",
+        "name": "LandscapioAI",
+        "category": "Design",
+        "description": "An AI landscape design generator that helps homeowners and outdoor professionals create garden and yard concepts from photos.",
+        "bestFor": "Generating landscape design ideas, planting concepts, and outdoor renovation visuals.",
+        "pricing": "Freemium",
+        "difficulty": "Beginner",
+        "tags": [
+            "landscape-design",
+            "image-generation",
+            "garden"
+        ],
+        "strength": "Fast visual ideation for yards, gardens, patios, and outdoor spaces.",
+        "limitation": "Generated concepts should be checked against local climate, site conditions, and installation requirements.",
+        "userType": "Homeowners, landscape designers, outdoor professionals",
+        "url": "https://www.landscapioai.com/"
+    },
+    {
         "id": "webflow-ai",
         "name": "Webflow AI",
         "category": "Design",
